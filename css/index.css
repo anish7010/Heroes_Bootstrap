@@ -1,9 +1,9 @@
 #comic {
-    color: #e81420;
+    color: white;
 }
 
 #wars {
-    color: #1879db;
+    color: white;
 }
 
 .topleft li {
@@ -16,8 +16,9 @@
 }
 
 #bar {
+    background: #222;
     height: 80px;
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     border-top: 2px solid black;
 }
 
@@ -34,7 +35,7 @@
 }
 
 body {
-    background: white;
+    background: #e8e9ea;
     top margin: 20px;
 }
 
@@ -54,3 +55,29 @@ body {
     padding-left: 50px; 
     padding-top: 50px
 }                                                                   /* Miidle content done*/
+                                        
+
+#contentheader {                                                    /* After pictures content*/
+    color: #f2f2f2;
+    background: #222;
+    font-family: 'Supermercado One', cursive;
+    letter-spacing: -1px;
+}                                                                  
+
+.subheading {
+    padding-top: 30px;
+    font-family: 'Acme', sans-serif;
+}
+
+.subpara {
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+#footer {                                                             /* footer */ 
+    background: #222;
+    color: #f2f2f2;
+    font-family: 'Slabo 27px', serif;
+    font-size: 14px;
+}                                                                      
