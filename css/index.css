@@ -1,0 +1,25 @@
+#logos li
+{
+    margin: 40px;
+    padding-left: 40px;
+}
+
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+#bar {
+    height: 80px;
+    background: 1px solid black;
+}
+
+.social li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+}
+
+body {
+    background: #626468;
+}
