@@ -1,30 +1,56 @@
-#logos li
-{
-    margin: 40px;
-    padding-left: 40px;
+#comic {
+    color: #e81420;
+}
+
+#wars {
+    color: #1879db;
+}
+
+.topleft li {
+    padding-right: 20px;
 }
 
 #title {
-    font-family: 'Lobster', cursive;
+    font-family: 'Berkshire Swash', cursive;
     font-size: 50px;
 }
 
 #bar {
     height: 80px;
-    background: 1px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
 }
 
 .social li{
     list-style: none;
     display: inline;
     padding-right: 20px;
-}
+}                                                                                   /* Header only till here*/
 
-#intro {
-    background: #d3d3d3;
+#intro {                                                                            /*middle body starts*/
+    background: #e8e9ea;
+    padding-top: 20px; 
+    text-align: center;
 }
 
 body {
-    background: #626468;
+    background: white;
+    top margin: 20px;
 }
 
+#marvel {
+    width: 300px;
+    padding-top: 35px;
+}
+
+#dc {
+    width: 200px;
+    height: 200px;
+}
+
+.pictures {
+    height: 500px;
+    width: 500px;
+    padding-left: 50px; 
+    padding-top: 50px
+}                                                                   /* Miidle content done*/
