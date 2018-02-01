@@ -20,6 +20,11 @@
     padding-right: 20px;
 }
 
+#intro {
+    background: #d3d3d3;
+}
+
 body {
     background: #626468;
 }
+
