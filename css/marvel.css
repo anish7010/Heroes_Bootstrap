@@ -1,0 +1,50 @@
+.topleft li {
+    padding-right: 40px;
+}
+
+.dropdown {
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+#title {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+#bar {
+    background: #222;
+    height: 80px;
+    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+}
+
+.social li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+}                                                                       /* The navigation bar and header*/
+
+body {
+    background: #e8e9ea;
+    top margin: 20px;
+}
+
+#marvel_logo {
+    width: 300px;
+
+}
+
+#thor {
+    width: 400px;
+    height: 400px;
+}
+
+#footer {                                                             /* footer */ 
+    background: #222;
+    color: #f2f2f2;
+    font-family: 'Slabo 27px', serif;
+    font-size: 14px;
+    text-align: center;
+}            
