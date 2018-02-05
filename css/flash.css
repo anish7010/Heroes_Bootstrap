@@ -31,14 +31,13 @@ body {
     top margin: 20px;
 }
 
-#marvel_logo {
-    width: 300px;
-
+#name {
+    font-family: 'Bree Serif', serif;
 }
 
-#thor {
-    width: 400px;
-    height: 400px;
+#description {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
 }
 
 #footer {                                                             /* footer */ 

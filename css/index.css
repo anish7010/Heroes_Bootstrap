@@ -79,4 +79,14 @@ body {
     color: #f2f2f2;
     font-family: 'Slabo 27px', serif;
     font-size: 14px;
-}                                                                      
+    text-align: center;
+}   
+
+
+/*Media queries */
+
+@media screen and (min-width:993) {
+    #bar {
+        width: 100%;
+    }
+}
